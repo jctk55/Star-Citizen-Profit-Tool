@@ -207,7 +207,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(455, 273);
+            this.ClientSize = new System.Drawing.Size(455, 295);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.buttonCalculate);
             this.Controls.Add(this.playersCutBox);
